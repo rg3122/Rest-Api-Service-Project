@@ -1,0 +1,38 @@
+[
+    {
+        "name":"iphone11",
+        "price":154,
+        "rating": 4.8,
+        "company":"apple"
+    },
+    {
+        "name":"iphone12",
+        "price":174,
+        "rating": 4.5,
+        "company":"apple"
+    },
+    {
+        "name":"laptop",
+        "price":104,
+        "rating": 4.4,
+        "company":"dell"
+    },
+    {
+        "name":"laptop",
+        "price":179,
+        "rating": 4.1,
+        "company":"apple"
+    },
+    {
+        "name":"laptop",
+        "price":132,
+        "rating": 4.2,
+        "company":"mi"
+    },
+    {
+        "name":"mobile",
+        "price":164,
+        "rating": 4.4,
+        "company":"samsung"
+    }
+]
